@@ -1,0 +1,9 @@
+User-agent: Yandex
+Disallow: /
+
+
+User-agent: Unknown robot
+Disallow: /
+
+User-agent: *
+Disallow: /

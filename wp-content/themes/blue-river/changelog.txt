@@ -1,0 +1,10 @@
+Theme : Blue River
+Version : 1.0.1
+Author : vld7
+
+February 6, 2014 -> 1.0.1
+------------------------------------------------
+- added license.txt
+- changed screenshot
+- bumped version number
+
